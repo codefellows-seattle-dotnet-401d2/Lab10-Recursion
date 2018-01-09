@@ -16,8 +16,5 @@ This is a C# console application. The purpose of this program is to show possibl
 2. Cd into the application directory where the `AppName.sln` exist.
 3. Open the application using `Open/Start AppName.sln`.
 
-## Diagram Explaining the Puzzle
-![Tower Of Hanoi](TowerOfHanoi.gif?raw=true "Inheritance")
-
 ### Architecture
  - C# Console Core application.
