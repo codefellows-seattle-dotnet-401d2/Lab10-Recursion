@@ -1,0 +1,11 @@
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\bin\Debug\netcoreapp2.0\Hanoi.deps.json
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\bin\Debug\netcoreapp2.0\Hanoi.runtimeconfig.json
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\bin\Debug\netcoreapp2.0\Hanoi.runtimeconfig.dev.json
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\bin\Debug\netcoreapp2.0\Hanoi.dll
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\obj\Debug\netcoreapp2.0\Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\obj\Debug\netcoreapp2.0\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\obj\Debug\netcoreapp2.0\Hanoi.AssemblyInfoInputs.cache
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\obj\Debug\netcoreapp2.0\Hanoi.AssemblyInfo.cs
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\bin\Debug\netcoreapp2.0\Hanoi.pdb
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\obj\Debug\netcoreapp2.0\Hanoi.dll
+C:\Users\jeffmartinez\source\repos\Lab10-Recursion\Hanoi\Hanoi\obj\Debug\netcoreapp2.0\Hanoi.pdb
