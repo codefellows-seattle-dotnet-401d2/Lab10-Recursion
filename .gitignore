@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Lab10-Recursion/v15/.suo
+/Hanoi/.vs/Hanoi/v15/.suo
+/Hanoi/.vs/Hanoi/v15/Server/sqlite3
